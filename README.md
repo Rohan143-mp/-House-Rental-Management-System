@@ -13,9 +13,6 @@ This is a PHP-MySQL-based web application for managing houses, tenants, payments
 - 👤 Admin/User Roles and Authentication
 
 ---
-
-## 🚀 How to Run
-
 ### ✅ Prerequisites
 
 - [XAMPP](https://www.apachefriends.org/) or any LAMP/WAMP stack
