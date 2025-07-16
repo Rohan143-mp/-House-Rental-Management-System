@@ -21,6 +21,7 @@ Class Action {
 			$qry = $this->db->query("SELECT * FROM users where username = '".$username."' and password = '".md5($password)."' ");
 			if($qry->num_rows > 0){
 				foreach ($qry->fetch_array() as $key => $value) {
+					
 					if($key != 'passwors' && !is_numeric($key))
 						$_SESSION['login_'.$key] = $value;
 				}
