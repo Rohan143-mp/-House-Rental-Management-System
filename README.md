@@ -82,8 +82,4 @@ house_rental/
 - All core files are inside the `house_rental/` directory.
 - You can customize styles, templates, and logic as needed.
 
----
 
-## 📄 License
-
-This project is for educational/demo purposes. Contact the original developer or modify freely under MIT-like terms.
